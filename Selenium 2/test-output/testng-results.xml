@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Navigate to PrivacyNoticePage]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TstCase 004 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Capture The Logo]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TstCase 003 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Navigate to Order Page]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TstCase 002 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Add to Product]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TestCase 001 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[successfully Navigate to ScarchTextField]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Account Page Open]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TstCase 007 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TstCase 006 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[TstCase 008 got executed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Navigate to New Product Page]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Lunch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser got Maximize]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Home Page Got Display]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Navigate to News Page]]>
+    </line>
+    <line>
+      <![CDATA[Logged out Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser successfully Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-27T22:06:19 IST" name="Suite" finished-at="2024-06-27T22:11:51 IST" duration-ms="332424">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T22:06:19 IST" name="Test" finished-at="2024-06-27T22:11:51 IST" duration-ms="332424">
+      <class name="AdvanceSelenium.DWS_TC_011">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_011@42e99e4a]" started-at="2024-06-27T22:11:23 IST" name="tolunch" finished-at="2024-06-27T22:11:25 IST" duration-ms="2004" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_011@42e99e4a]" started-at="2024-06-27T22:11:25 IST" name="toLogin" finished-at="2024-06-27T22:11:33 IST" duration-ms="8063" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNewproductsPage()[pri:0, instance:AdvanceSelenium.DWS_TC_011@42e99e4a]" started-at="2024-06-27T22:11:33 IST" name="toNewproductsPage" finished-at="2024-06-27T22:11:34 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Navigate to New Product Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNewproductsPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_011@42e99e4a]" started-at="2024-06-27T22:11:34 IST" name="tologout" finished-at="2024-06-27T22:11:35 IST" duration-ms="971" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_011@42e99e4a]" started-at="2024-06-27T22:11:35 IST" name="toclose" finished-at="2024-06-27T22:11:36 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_011 -->
+      <class name="AdvanceSelenium.DWS_TC_010">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_010@14dd9eb7]" started-at="2024-06-27T22:11:36 IST" name="tolunch" finished-at="2024-06-27T22:11:39 IST" duration-ms="2904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_010@14dd9eb7]" started-at="2024-06-27T22:11:39 IST" name="toLogin" finished-at="2024-06-27T22:11:48 IST" duration-ms="9637" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toNewsPage()[pri:0, instance:AdvanceSelenium.DWS_TC_010@14dd9eb7]" started-at="2024-06-27T22:11:48 IST" name="toNewsPage" finished-at="2024-06-27T22:11:49 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Navigate to News Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toNewsPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_010@14dd9eb7]" started-at="2024-06-27T22:11:49 IST" name="tologout" finished-at="2024-06-27T22:11:51 IST" duration-ms="1200" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_010@14dd9eb7]" started-at="2024-06-27T22:11:51 IST" name="toclose" finished-at="2024-06-27T22:11:51 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_010 -->
+      <class name="AdvanceSelenium.DWS_TC_002">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_002@59fd97a8]" started-at="2024-06-27T22:08:21 IST" name="tolunch" finished-at="2024-06-27T22:08:27 IST" duration-ms="6256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_002@59fd97a8]" started-at="2024-06-27T22:08:27 IST" name="toLogin" finished-at="2024-06-27T22:08:43 IST" duration-ms="15305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckComputerPage()[pri:0, instance:AdvanceSelenium.DWS_TC_002@59fd97a8]" started-at="2024-06-27T22:08:43 IST" name="toCheckComputerPage" finished-at="2024-06-27T22:08:44 IST" duration-ms="1603" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TstCase 002 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckComputerPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_002@59fd97a8]" started-at="2024-06-27T22:08:44 IST" name="tologout" finished-at="2024-06-27T22:08:46 IST" duration-ms="1353" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_002@59fd97a8]" started-at="2024-06-27T22:08:46 IST" name="toclose" finished-at="2024-06-27T22:08:46 IST" duration-ms="797" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_002 -->
+      <class name="AdvanceSelenium.DWS_TC_013">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_013@f5ac9e4]" started-at="2024-06-27T22:08:46 IST" name="tolunch" finished-at="2024-06-27T22:08:55 IST" duration-ms="8582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_013@f5ac9e4]" started-at="2024-06-27T22:08:55 IST" name="toLogin" finished-at="2024-06-27T22:09:23 IST" duration-ms="28136" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toAddProduct()[pri:0, instance:AdvanceSelenium.DWS_TC_013@f5ac9e4]" started-at="2024-06-27T22:09:23 IST" name="toAddProduct" finished-at="2024-06-27T22:09:25 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Add to Product]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toAddProduct -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_013@f5ac9e4]" started-at="2024-06-27T22:09:25 IST" name="tologout" finished-at="2024-06-27T22:09:28 IST" duration-ms="2567" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_013@f5ac9e4]" started-at="2024-06-27T22:09:28 IST" name="toclose" finished-at="2024-06-27T22:09:29 IST" duration-ms="1885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_013 -->
+      <class name="AdvanceSelenium.DWS_TC_012">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_012@61862a7f]" started-at="2024-06-27T22:09:52 IST" name="tolunch" finished-at="2024-06-27T22:09:56 IST" duration-ms="4219" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_012@61862a7f]" started-at="2024-06-27T22:09:56 IST" name="toLogin" finished-at="2024-06-27T22:10:07 IST" duration-ms="10527" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toScarchTextField()[pri:0, instance:AdvanceSelenium.DWS_TC_012@61862a7f]" started-at="2024-06-27T22:10:07 IST" name="toScarchTextField" finished-at="2024-06-27T22:10:07 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully Navigate to ScarchTextField]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toScarchTextField -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_012@61862a7f]" started-at="2024-06-27T22:10:07 IST" name="tologout" finished-at="2024-06-27T22:10:08 IST" duration-ms="790" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_012@61862a7f]" started-at="2024-06-27T22:10:08 IST" name="toclose" finished-at="2024-06-27T22:10:09 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_012 -->
+      <class name="AdvanceSelenium.DWS_TC_001">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_001@384ad17b]" started-at="2024-06-27T22:09:29 IST" name="tolunch" finished-at="2024-06-27T22:09:33 IST" duration-ms="3378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_001@384ad17b]" started-at="2024-06-27T22:09:33 IST" name="toLogin" finished-at="2024-06-27T22:09:49 IST" duration-ms="16144" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckBooksPage()[pri:0, instance:AdvanceSelenium.DWS_TC_001@384ad17b]" started-at="2024-06-27T22:09:49 IST" name="toCheckBooksPage" finished-at="2024-06-27T22:09:50 IST" duration-ms="1506" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TestCase 001 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckBooksPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_001@384ad17b]" started-at="2024-06-27T22:09:50 IST" name="tologout" finished-at="2024-06-27T22:09:52 IST" duration-ms="1430" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_001@384ad17b]" started-at="2024-06-27T22:09:52 IST" name="toclose" finished-at="2024-06-27T22:09:52 IST" duration-ms="384" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_001 -->
+      <class name="AdvanceSelenium.DWS_TC_008">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_008@441772e]" started-at="2024-06-27T22:10:09 IST" name="tolunch" finished-at="2024-06-27T22:10:13 IST" duration-ms="4828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_008@441772e]" started-at="2024-06-27T22:10:13 IST" name="toLogin" finished-at="2024-06-27T22:10:25 IST" duration-ms="11146" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toMyAccountPage()[pri:0, instance:AdvanceSelenium.DWS_TC_008@441772e]" started-at="2024-06-27T22:10:25 IST" name="toMyAccountPage" finished-at="2024-06-27T22:10:26 IST" duration-ms="1268" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Account Page Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toMyAccountPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_008@441772e]" started-at="2024-06-27T22:10:26 IST" name="tologout" finished-at="2024-06-27T22:10:27 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_008@441772e]" started-at="2024-06-27T22:10:27 IST" name="toclose" finished-at="2024-06-27T22:10:27 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_008 -->
+      <class name="AdvanceSelenium.DWS_TC_007">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_007@7334aada]" started-at="2024-06-27T22:10:27 IST" name="tolunch" finished-at="2024-06-27T22:10:31 IST" duration-ms="4284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_007@7334aada]" started-at="2024-06-27T22:10:31 IST" name="toLogin" finished-at="2024-06-27T22:10:45 IST" duration-ms="13305" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckWishlistPage()[pri:0, instance:AdvanceSelenium.DWS_TC_007@7334aada]" started-at="2024-06-27T22:10:45 IST" name="toCheckWishlistPage" finished-at="2024-06-27T22:10:46 IST" duration-ms="931" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TstCase 007 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckWishlistPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_007@7334aada]" started-at="2024-06-27T22:10:46 IST" name="tologout" finished-at="2024-06-27T22:10:48 IST" duration-ms="2326" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_007@7334aada]" started-at="2024-06-27T22:10:48 IST" name="toclose" finished-at="2024-06-27T22:10:49 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_007 -->
+      <class name="AdvanceSelenium.DWS_TC_009">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_009@192d43ce]" started-at="2024-06-27T22:06:19 IST" name="tolunch" finished-at="2024-06-27T22:06:28 IST" duration-ms="8851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_009@192d43ce]" started-at="2024-06-27T22:06:28 IST" name="toLogin" finished-at="2024-06-27T22:06:46 IST" duration-ms="18174" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toPrivacyNoticePage()[pri:0, instance:AdvanceSelenium.DWS_TC_009@192d43ce]" started-at="2024-06-27T22:06:46 IST" name="toPrivacyNoticePage" finished-at="2024-06-27T22:06:48 IST" duration-ms="2110" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Navigate to PrivacyNoticePage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toPrivacyNoticePage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_009@192d43ce]" started-at="2024-06-27T22:06:48 IST" name="tologout" finished-at="2024-06-27T22:06:50 IST" duration-ms="2358" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_009@192d43ce]" started-at="2024-06-27T22:06:51 IST" name="toclose" finished-at="2024-06-27T22:06:57 IST" duration-ms="6013" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_009 -->
+      <class name="AdvanceSelenium.DWS_TC_004">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_004@498d318c]" started-at="2024-06-27T22:06:57 IST" name="tolunch" finished-at="2024-06-27T22:07:10 IST" duration-ms="13455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_004@498d318c]" started-at="2024-06-27T22:07:10 IST" name="toLogin" finished-at="2024-06-27T22:07:25 IST" duration-ms="15009" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckApparel_ShoesPage()[pri:0, instance:AdvanceSelenium.DWS_TC_004@498d318c]" started-at="2024-06-27T22:07:25 IST" name="toCheckApparel_ShoesPage" finished-at="2024-06-27T22:07:28 IST" duration-ms="2715" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TstCase 004 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckApparel_ShoesPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_004@498d318c]" started-at="2024-06-27T22:07:28 IST" name="tologout" finished-at="2024-06-27T22:07:30 IST" duration-ms="2316" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_004@498d318c]" started-at="2024-06-27T22:07:30 IST" name="toclose" finished-at="2024-06-27T22:07:31 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_004 -->
+      <class name="AdvanceSelenium.DWS_TC_015">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_015@6e171cd7]" started-at="2024-06-27T22:07:31 IST" name="tolunch" finished-at="2024-06-27T22:07:33 IST" duration-ms="2436" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_015@6e171cd7]" started-at="2024-06-27T22:07:33 IST" name="toLogin" finished-at="2024-06-27T22:07:43 IST" duration-ms="9511" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toLogo()[pri:0, instance:AdvanceSelenium.DWS_TC_015@6e171cd7]" started-at="2024-06-27T22:07:43 IST" name="toLogo" finished-at="2024-06-27T22:07:43 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Capture The Logo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogo -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_015@6e171cd7]" started-at="2024-06-27T22:07:43 IST" name="tologout" finished-at="2024-06-27T22:07:44 IST" duration-ms="1208" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_015@6e171cd7]" started-at="2024-06-27T22:07:44 IST" name="toclose" finished-at="2024-06-27T22:07:45 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_015 -->
+      <class name="AdvanceSelenium.DWS_TC_014">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_014@795cd85e]" started-at="2024-06-27T22:08:06 IST" name="tolunch" finished-at="2024-06-27T22:08:10 IST" duration-ms="4543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_014@795cd85e]" started-at="2024-06-27T22:08:10 IST" name="toLogin" finished-at="2024-06-27T22:08:19 IST" duration-ms="8541" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toOrderPage()[pri:0, instance:AdvanceSelenium.DWS_TC_014@795cd85e]" started-at="2024-06-27T22:08:19 IST" name="toOrderPage" finished-at="2024-06-27T22:08:20 IST" duration-ms="689" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Navigate to Order Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toOrderPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_014@795cd85e]" started-at="2024-06-27T22:08:20 IST" name="tologout" finished-at="2024-06-27T22:08:20 IST" duration-ms="954" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_014@795cd85e]" started-at="2024-06-27T22:08:20 IST" name="toclose" finished-at="2024-06-27T22:08:21 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_014 -->
+      <class name="AdvanceSelenium.DWS_TC_003">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_003@402bba4f]" started-at="2024-06-27T22:07:45 IST" name="tolunch" finished-at="2024-06-27T22:07:49 IST" duration-ms="4281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_003@402bba4f]" started-at="2024-06-27T22:07:49 IST" name="toLogin" finished-at="2024-06-27T22:08:03 IST" duration-ms="13598" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckElectronicsPage()[pri:0, instance:AdvanceSelenium.DWS_TC_003@402bba4f]" started-at="2024-06-27T22:08:03 IST" name="toCheckElectronicsPage" finished-at="2024-06-27T22:08:04 IST" duration-ms="1727" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TstCase 003 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckElectronicsPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_003@402bba4f]" started-at="2024-06-27T22:08:04 IST" name="tologout" finished-at="2024-06-27T22:08:05 IST" duration-ms="790" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_003@402bba4f]" started-at="2024-06-27T22:08:05 IST" name="toclose" finished-at="2024-06-27T22:08:06 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_003 -->
+      <class name="AdvanceSelenium.DWS_TC_006">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_006@1d9b7cce]" started-at="2024-06-27T22:10:49 IST" name="tolunch" finished-at="2024-06-27T22:10:52 IST" duration-ms="3548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_006@1d9b7cce]" started-at="2024-06-27T22:10:52 IST" name="toLogin" finished-at="2024-06-27T22:11:05 IST" duration-ms="13100" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckShoppingcartPage()[pri:0, instance:AdvanceSelenium.DWS_TC_006@1d9b7cce]" started-at="2024-06-27T22:11:05 IST" name="toCheckShoppingcartPage" finished-at="2024-06-27T22:11:08 IST" duration-ms="2453" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TstCase 006 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckShoppingcartPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_006@1d9b7cce]" started-at="2024-06-27T22:11:08 IST" name="tologout" finished-at="2024-06-27T22:11:09 IST" duration-ms="1028" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_006@1d9b7cce]" started-at="2024-06-27T22:11:09 IST" name="toclose" finished-at="2024-06-27T22:11:09 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_006 -->
+      <class name="AdvanceSelenium.DWS_TC_005">
+        <test-method is-config="true" signature="tolunch(java.lang.String)[pri:0, instance:AdvanceSelenium.DWS_TC_005@4d9e68d0]" started-at="2024-06-27T22:11:09 IST" name="tolunch" finished-at="2024-06-27T22:11:12 IST" duration-ms="2774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser got Lunch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser got Maximize]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tolunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:AdvanceSelenium.DWS_TC_005@4d9e68d0]" started-at="2024-06-27T22:11:12 IST" name="toLogin" finished-at="2024-06-27T22:11:21 IST" duration-ms="9498" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Home Page Got Display]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckTricentissPage()[pri:0, instance:AdvanceSelenium.DWS_TC_005@4d9e68d0]" started-at="2024-06-27T22:11:21 IST" name="toCheckTricentissPage" finished-at="2024-06-27T22:11:22 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TstCase 008 got executed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckTricentissPage -->
+        <test-method is-config="true" signature="tologout()[pri:0, instance:AdvanceSelenium.DWS_TC_005@4d9e68d0]" started-at="2024-06-27T22:11:22 IST" name="tologout" finished-at="2024-06-27T22:11:23 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tologout -->
+        <test-method is-config="true" signature="toclose()[pri:0, instance:AdvanceSelenium.DWS_TC_005@4d9e68d0]" started-at="2024-06-27T22:11:23 IST" name="toclose" finished-at="2024-06-27T22:11:23 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toclose -->
+      </class> <!-- AdvanceSelenium.DWS_TC_005 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
