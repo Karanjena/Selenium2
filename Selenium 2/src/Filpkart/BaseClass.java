@@ -16,13 +16,7 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 		
 		
-		driver.get("https://www.flipkart.com/");
-		driver.findElement(By.xpath("//span[text()='Login']")).click();
-		driver.findElement(By.xpath("(//input[@type='text'])[2]")).sendKeys("9337671293");
-		driver.findElement(By.xpath("//button[text()='Request OTP']")).click();
+		driver.get("https://www.flipkart.com/account/?rd=0&link=home_account");
 		
-		Scanner sc=new Scanner(System.in);
-		int otp=sc.nextInt();
-		driver.findElement(By.xpath("(//input[@type='text'])[2]")).sendKeys("otp");
 	}
 }

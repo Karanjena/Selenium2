@@ -6,18 +6,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.Select; 
+import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.Test; 
 
-public class TC_DWS_003 {
+public class TC_DWS_003 extends BaseClass{
 
-	public static void main(String[] args) {
-		
-		WebDriver driver=new ChromeDriver();
-		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-		
-		driver.get("https://demowebshop.tricentis.com/");
-		
+	
+	@Test
+	
+	public void toBookPage() {
+	
 		WelComePage wc=new WelComePage(driver);
 		wc.getBookLink().click();
 		boolean Logo = driver.findElement(By.xpath("//h1[text()='Books']")).isDisplayed();
@@ -28,37 +26,34 @@ public class TC_DWS_003 {
 		}
 		
 		
-		BookPage b=new BookPage(driver);
-		Select sortSelect=new Select(b.getSortDropdown());
+		BookPage bp=new BookPage(driver);
+		Select sortSelect=new Select(bp.getSortDropdown());
 		sortSelect.selectByVisibleText("Price: Low to High");
 		
-		Select displaySelect = new Select(b.getDisplayDropdown());
+		Select displaySelect = new Select(bp.getDisplayDropdown());
 		displaySelect.selectByVisibleText("12");
 		
-		Select viewSelect = new Select(b.getViweDropdown());
+		Select viewSelect = new Select(bp.getViweDropdown());
 		viewSelect.selectByVisibleText("List");
 		
-		b.getUnder25text().click();
-		b.getRemoveFilter().click();
-		b.getUnder25to50Text().click();
-		b.getRemoveFilter().click();
-		b.getOver50().click();
-		b.getRemoveFilter().click();
-		b.getUnder25text().click();
+		bp.getUnder25text().click();
+		bp.getRemoveFilter().click();
+		bp.getUnder25to50Text().click();
+		bp.getRemoveFilter().click();
+		bp.getOver50().click();
+		bp.getRemoveFilter().click();
+		
 		
 		
 		String exceptData = "Add to cart";
-		WebElement x=b.getAddToCartButton();
-		x.click();
-		String actualData = x.getAttribute("value");
+		WebElement AddButton=bp.getAddToCartButton();
+		AddButton.click();
+		String actualData = AddButton.getAttribute("value");
 		if (actualData.equals(exceptData)) {
 			System.out.println("Successfully AddToProduct");
 		}else {
 			System.out.println("Fail AddToCart");
 		}
-	
-		System.out.println("Successfully Close The Browser");
-		driver.quit();
 				
 	}
 }

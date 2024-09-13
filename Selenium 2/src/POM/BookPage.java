@@ -21,7 +21,7 @@ public class BookPage {
 	@FindBy(id = "products-viewmode")
 	private WebElement viweDropdown;
 	
-	@FindBy(xpath = "(//span[text()='25.00'])[1]")
+	@FindBy(partialLinkText = "Under")
 	private WebElement under25text;
 	
 	@FindBy(linkText = "Remove Filter")
@@ -30,7 +30,7 @@ public class BookPage {
 	@FindBy(xpath = "(//span[text()='50.00'])[1]")
 	private WebElement under25to50Text;
 	
-	@FindBy(xpath = "(//span[text()='50.00'])[2]")
+	@FindBy(partialLinkText = "Over")
 	private WebElement over50;
 	
 	@FindBy(xpath = "//a[text()='Health Book']/../..//input[@value='Add to cart']")

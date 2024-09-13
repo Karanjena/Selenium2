@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AdvanceSelenium.DWS_TC_013">
+      <class name="POM.TC_DWS_006">
         <methods>
+          <include name="toAccessoriesPage"/>
           <include name="toclose"/>
-          <include name="tolunch"/>
-          <include name="tologout"/>
-          <include name="toAddProduct"/>
           <include name="toLogin"/>
+          <include name="tologout"/>
+          <include name="tolunch"/>
         </methods>
-      </class> <!-- AdvanceSelenium.DWS_TC_013 -->
+      </class> <!-- POM.TC_DWS_006 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

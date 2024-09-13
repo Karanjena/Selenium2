@@ -4,15 +4,15 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browserName" value="chrome"/>
     <classes>
-      <class name="AdvanceSelenium.DWS_TC_013">
+      <class name="POM.TC_DWS_006">
         <methods>
+          <include name="toAccessoriesPage"/>
           <include name="toclose"/>
-          <include name="tolunch"/>
-          <include name="tologout"/>
-          <include name="toAddProduct"/>
           <include name="toLogin"/>
+          <include name="tologout"/>
+          <include name="tolunch"/>
         </methods>
-      </class> <!-- AdvanceSelenium.DWS_TC_013 -->
+      </class> <!-- POM.TC_DWS_006 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

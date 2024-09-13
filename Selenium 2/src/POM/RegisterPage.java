@@ -30,7 +30,7 @@ public class RegisterPage {
 	@FindBy(id="ConfirmPassword")
 	private WebElement confirmPasswordTextField;
 	
-	@FindBy(xpath="//input[@value='Register']")
+	@FindBy(id = "register-button")
 	private WebElement registerButton;
 
 	public WebElement getGenderTextField() {

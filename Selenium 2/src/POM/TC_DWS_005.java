@@ -8,16 +8,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.Test;
 
-public class TC_DWS_005 {
+public class TC_DWS_005 extends BaseClass{
 
-	public static void main(String[] args) {
-
-		WebDriver driver = new ChromeDriver();
-		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
-
-		driver.get("https://demowebshop.tricentis.com/");
+	@Test
+	
+	public void toNoteBookPage() {
 		
 		WelComePage wc = new WelComePage(driver);
 		wc.getComputerLink().click();
@@ -45,7 +42,7 @@ public class TC_DWS_005 {
 		np.getRemoveFilterLink().click();
 		np.getMemoryLink().click();
 		np.getRemoveFilterLink().click();
-		np.getCpuTypeLink().click();
+		
 
 		String execeptData = "Add to cart";
 		WebElement addButton = np.getAddToCartButton();
@@ -56,9 +53,6 @@ public class TC_DWS_005 {
 		} else {
 			System.out.println("Fail add to cart");
 		}
-
-		System.out.println("Successfully Close The Browser");
-		driver.quit();
 
 	}
 }

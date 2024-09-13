@@ -29,7 +29,7 @@ public class NoteBookPage {
 	@FindBy(linkText = "Remove Filter")
 	private WebElement removeFilterLink;
 
-	@FindBy(xpath = "(//a[text()='14.1-inch Laptop'])[2]/../../..//input[@value='Add to cart']")
+	@FindBy(xpath = "//a[text()='14.1-inch Laptop']/../../..//input[@value='Add to cart']")
 	private WebElement addToCartButton;
 
 	public WebElement getSortDropdown() {
